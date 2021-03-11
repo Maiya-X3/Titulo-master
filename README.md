@@ -1,0 +1,1 @@
+Pacote do repositorio Golang
